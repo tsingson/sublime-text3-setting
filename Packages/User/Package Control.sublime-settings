@@ -1,0 +1,30 @@
+{
+	"ignore_vcs_packages": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"BracketHighlighter",
+		"Codecs33",
+		"Color Highlighter",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"EncodingHelper",
+		"Fold Comments",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"JSTL syntax",
+		"MarkdownEditing",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"PackageResourceViewer",
+		"Pretty JSON",
+		"PureCSS",
+		"TabsExtra",
+		"Theme - El Capitan",
+		"TodoReview",
+		"Wrap Plus"
+	]
+}
